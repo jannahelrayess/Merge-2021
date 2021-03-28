@@ -1,0 +1,500 @@
+1,Master's degree,110000,Computer-Related,China
+2,Doctorate degree,110000,Mathematics and Physical Sciences,India
+3,Master's degree,105000,Computer-Related,India
+4,Master's degree,75000,Medicine and Health,India
+5,Master's degree,75000,Education,China
+6,Master's degree,110000,Computer-Related,India
+7,Master's degree,105000,Medicine and Health,India
+8,Master's degree,90000,Computer-Related,India
+9,Master's degree,75000,Law and Jurisprudence,Taiwan
+10,Bachelor's degree,60000,Computer-Related,India
+11,Master's degree,65000,Computer-Related,India
+12,Master's degree,80000,Administrative Specializations,Pakistan
+13,Master's degree,120000,Education,India
+14,Bachelor's degree,70000,Medicine and Health,Italy
+15,Bachelor's degree,60000,Education,India
+16,Master's degree,75000,Computer-Related,India
+17,Professional degree,130000,Medicine and Health,China
+18,Bachelor's degree,65000,Computer-Related,Canada
+19,Doctorate degree,90000,Computer-Related,India
+20,Bachelor's degree,90000,Medicine and Health,India
+21,Professional degree,130000,Education,China
+22,Doctorate degree,110000,Computer-Related,India
+23,Master's degree,120000,Medicine and Health,India
+24,Professional degree,85000,Writing,Mexico
+25,Doctorate degree,100000,Education,Canada
+26,Master's degree,100000,Education,India
+27,Master's degree,100000,Computer-Related,India
+28,Bachelor's degree,70000,Computer-Related,India
+29,Bachelor's degree,60000,Art,United Kingdom
+30,Bachelor's degree,70000,Education,Mexico
+31,Master's degree,75000,Medicine and Health,Canada
+32,Doctorate degree,110000,Social Sciences,Mexico
+33,Master's degree,120000,Mathematics and Physical Sciences,India
+34,Bachelor's degree,80000,Administrative Specializations,India
+35,Master's degree,120000,Education,India
+36,Doctorate degree,125000,Medicine and Health,Canada
+37,Bachelor's degree,60000,Art,United Kingdom
+38,Doctorate degree,130000,Medicine and Health,China
+39,Bachelor's degree,85000,Medicine and Health,Canada
+40,Bachelor's degree,85000,Art,India
+41,Bachelor's degree,95000,Computer-Related,India
+42,Master's degree,85000,Medicine and Health,Spain
+43,Bachelor's degree,80000,Computer-Related,India
+44,Doctorate degree,130000,Computer-Related,India
+45,Master's degree,75000,Art,Canada
+46,Master's degree,85000,Medicine and Health,Mexico
+47,Doctorate degree,125000,Social Sciences,Canada
+48,Bachelor's degree,60000,Medicine and Health,Canada
+49,Master's degree,85000,Medicine and Health,Korea
+50,Professional degree,190000,Art,China
+51,Master's degree,85000,Administrative Specializations,Canada
+52,Professional degree,150000,Computer-Related,India
+53,Bachelor's degree,60000,Computer-Related,India
+54,Master's degree,90000,Medicine and Health,United Kingdom
+55,Bachelor's degree,60000,Computer-Related,India
+56,Master's degree,75000,Medicine and Health,China
+57,Doctorate degree,120000,Computer-Related,India
+58,Doctorate degree,85000,Administrative Specializations,United Kingdom
+59,Master's degree,70000,Education,Canada
+60,Bachelor's degree,45000,Medicine and Health,China
+61,Master's degree,105000,Administrative Specializations,Canada
+62,Doctorate degree,120000,Medicine and Health,China
+63,Doctorate degree,105000,Computer-Related,India
+64,Doctorate degree,90000,Mathematics and Physical Sciences,India
+65,Doctorate degree,110000,Mathematics and Physical Sciences,India
+66,Bachelor's degree,70000,Education,Canada
+67,Doctorate degree,85000,Computer-Related,India
+68,Less than Bachelor’s,55000,Computer-Related,India
+69,Master's degree,60000,Computer-Related,India
+70,Bachelor's degree,60000,Computer-Related,India
+71,Master's degree,80000,Computer-Related,India
+72,Master's degree,105000,Education,China
+73,Master's degree,90000,Computer-Related,India
+74,Bachelor's degree,60000,Computer-Related,India
+75,Master's degree,80000,Computer-Related,China
+76,Bachelor's degree,45000,Mathematics and Physical Sciences,India
+77,Master's degree,90000,Social Sciences,Germany
+78,Bachelor's degree,85000,Computer-Related,India
+79,Professional degree,110000,Social Sciences,France
+80,Master's degree,65000,Mathematics and Physical Sciences,China
+81,Bachelor's degree,80000,Computer-Related,China
+82,Master's degree,120000,Medicine and Health,United Kingdom
+83,Less than Bachelor’s,55000,Medicine and Health,Canada
+84,Doctorate degree,105000,Computer-Related,China
+85,Master's degree,100000,Computer-Related,India
+86,Master's degree,100000,Education,India
+87,Bachelor's degree,45000,Education,China
+88,Doctorate degree,130000,Medicine and Health,Canada
+89,Master's degree,105000,Medicine and Health,India
+90,Master's degree,80000,Computer-Related,India
+91,Doctorate degree,120000,Medicine and Health,India
+92,Bachelor's degree,90000,Education,China
+93,Professional degree,180000,Administrative Specializations,India
+94,Bachelor's degree,95000,Computer-Related,India
+95,Master's degree,80000,Mathematics and Physical Sciences,India
+96,Bachelor's degree,90000,Mathematics and Physical Sciences,China
+97,Master's degree,80000,Mathematics and Physical Sciences,China
+98,Master's degree,105000,Computer-Related,India
+99,Master's degree,95000,Computer-Related,India
+100,Bachelor's degree,90000,Medicine and Health,India
+101,Professional degree,140000,Education,Canada
+102,Bachelor's degree,45000,Art,China
+103,Master's degree,70000,Education,China
+104,Master's degree,115000,Medicine and Health,India
+105,Master's degree,115000,Computer-Related,India
+106,Professional degree,95000,Medicine and Health,India
+107,Doctorate degree,100000,Computer-Related,India
+108,Master's degree,120000,Computer-Related,India
+109,Bachelor's degree,95000,Education,China
+110,Bachelor's degree,90000,Education,India
+111,Bachelor's degree,75000,Education,India
+112,Bachelor's degree,65000,Mathematics and Physical Sciences,India
+113,Bachelor's degree,45000,Art,Canada
+114,Bachelor's degree,95000,Computer-Related,India
+115,Bachelor's degree,90000,Computer-Related,India
+116,Doctorate degree,95000,Mathematics and Physical Sciences,India
+117,Bachelor's degree,80000,Computer-Related,India
+118,Master's degree,80000,Education,India
+119,Master's degree,115000,Computer-Related,Canada
+120,Bachelor's degree,60000,Education,Mexico
+121,Master's degree,120000,Education,India
+122,Master's degree,85000,Computer-Related,India
+123,Less than Bachelor’s,45000,Computer-Related,India
+124,Master's degree,75000,Computer-Related,India
+125,Master's degree,105000,Medicine and Health,China
+126,Doctorate degree,100000,Computer-Related,China
+127,Master's degree,100000,Computer-Related,India
+128,Bachelor's degree,60000,Computer-Related,India
+129,Master's degree,75000,Education,India
+130,Bachelor's degree,50000,Mathematics and Physical Sciences,China
+131,Bachelor's degree,60000,Art,India
+132,Master's degree,115000,Administrative Specializations,United Kingdom
+133,Master's degree,85000,Computer-Related,India
+134,Master's degree,105000,Medicine and Health,India
+135,Master's degree,75000,Computer-Related,India
+136,Bachelor's degree,85000,Medicine and Health,India
+137,Doctorate degree,100000,Medicine and Health,India
+138,Professional degree,160000,Medicine and Health,China
+139,Bachelor's degree,45000,Computer-Related,India
+140,Bachelor's degree,60000,Social Sciences,Nepal
+141,Doctorate degree,95000,Social Sciences,China
+142,Master's degree,100000,Mathematics and Physical Sciences,India
+143,Master's degree,105000,Writing,China
+144,Doctorate degree,85000,Computer-Related,India
+145,Master's degree,75000,Medicine and Health,Colombia
+146,Master's degree,115000,Computer-Related,India
+147,Master's degree,85000,Education,India
+148,Doctorate degree,105000,Computer-Related,India
+149,Bachelor's degree,85000,Education,Canada
+150,Bachelor's degree,60000,Mathematics and Physical Sciences,India
+151,Bachelor's degree,50000,Computer-Related,India
+152,Doctorate degree,130000,Miscellaneous,Pakistan
+153,Doctorate degree,85000,Miscellaneous,France
+154,Master's degree,65000,Education,Canada
+155,Bachelor's degree,85000,Computer-Related,India
+156,Professional degree,200000,Medicine and Health,Pakistan
+157,Master's degree,115000,Mathematics and Physical Sciences,India
+158,Doctorate degree,90000,Medicine and Health,Nepal
+159,Master's degree,80000,Computer-Related,India
+160,Master's degree,105000,Education,India
+161,Doctorate degree,85000,Mathematics and Physical Sciences,India
+162,Master's degree,80000,Mathematics and Physical Sciences,China
+163,Master's degree,95000,Computer-Related,India
+164,Bachelor's degree,60000,Medicine and Health,India
+165,Bachelor's degree,80000,Medicine and Health,Turkey
+166,Professional degree,120000,Computer-Related,India
+167,Bachelor's degree,85000,Computer-Related,India
+168,Bachelor's degree,80000,Computer-Related,India
+169,Doctorate degree,90000,Computer-Related,India
+170,Master's degree,115000,Education,Canada
+171,Master's degree,85000,Mathematics and Physical Sciences,China
+172,Master's degree,110000,Computer-Related,India
+173,Professional degree,160000,Computer-Related,India
+174,Master's degree,80000,Social Sciences,India
+175,Doctorate degree,105000,Medicine and Health,Mexico
+176,Professional degree,95000,Computer-Related,India
+177,Master's degree,95000,Education,India
+178,Master's degree,65000,Education,China
+179,Doctorate degree,95000,Education,China
+180,Master's degree,80000,Medicine and Health,Mexico
+181,Doctorate degree,95,000,Education,India
+182,Master's degree,115000,Art,India
+183,Doctorate degree,150000,Mathematics and Physical Sciences,India
+184,Master's degree,105000,Medicine and Health,India
+185,Bachelor's degree,65000,Computer-Related,India
+186,Bachelor's degree,50000,Law and Jurisprudence,Canada
+187,Master's degree,80000,Computer-Related,India
+188,Bachelor's degree,70000,Education,China
+189,Master's degree,80000,Computer-Related,India
+190,Master's degree,75000,Mathematics and Physical Sciences,India
+191,Master's degree,105000,Medicine and Health,China
+192,Master's degree,80000,Medicine and Health,India
+193,Master's degree,105000,Mathematics and Physical Sciences,India
+194,Doctorate degree,85000,Art,France
+195,Bachelor's degree,55000,Computer-Related,India
+196,Doctorate degree,100000,Computer-Related,India
+197,Doctorate degree,125000,Computer-Related,India
+198,Master's degree,105000,Computer-Related,India
+199,Doctorate degree,105000,Education,China
+200,Bachelor's degree,70000,Computer-Related,India
+201,Doctorate degree,125000,Computer-Related,India
+202,Professional degree,170000,Computer-Related,India
+203,Bachelor's degree,50000,Administrative Specializations,Philippines
+204,Master's degree,80000,Education,China
+205,Master's degree,65000,Mathematics and Physical Sciences,India
+206,Master's degree,110000,Medicine and Health,India
+207,Bachelor's degree,70000,Medicine and Health,China
+208,Doctorate degree,90000,Education,China
+209,Professional degree,200000,Computer-Related,India
+210,Master's degree,110000,Education,Canada
+211,Master's degree,115000,Mathematics and Physical Sciences,India
+212,Master's degree,80000,Computer-Related,India
+213,Master's degree,70000,Education,India
+214,Bachelor's degree,80000,Education,India
+215,Master's degree,70000,Social Sciences,China
+216,Master's degree,80000,Law and Jurisprudence,United Kingdom
+217,Doctorate degree,100000,Computer-Related,India
+218,Doctorate degree,110000,Mathematics and Physical Sciences,India
+219,Less than Bachelor’s,60000,Computer-Related,India
+220,Bachelor's degree,60000,Medicine and Health,Korea
+221,Master's degree,105000,Medicine and Health,China
+222,Master's degree,110000,Computer-Related,India
+223,Bachelor's degree,80000,Medicine and Health,China
+224,Bachelor's degree,95000,Education,Canada
+225,Bachelor's degree,90000,Medicine and Health,Mexico
+226,Doctorate degree,120000,Art,United Kingdom
+227,Master's degree,75000,Mathematics and Physical Sciences,India
+228,Bachelor's degree,75000,Law and Jurisprudence,China
+229,Bachelor's degree,60000,Medicine and Health,China
+230,Professional degree,180000,Medicine and Health,India
+231,Bachelor's degree,75000,Computer-Related,China
+232,Less than Bachelor’s,50000,Medicine and Health,India
+233,Master's degree,120000,Writing,India
+234,Master's degree,75000,Medicine and Health,Canada
+235,Master's degree,105000,Medicine and Health,India
+236,Bachelor's degree,60000,Medicine and Health,China
+237,Bachelor's degree,55000,Mathematics and Physical Sciences,China
+238,Master's degree,100000,Medicine and Health,China
+239,Master's degree,80000,Medicine and Health,Iran
+240,Bachelor's degree,90000,Medicine and Health,India
+241,Bachelor's degree,45000,Computer-Related,India
+242,Professional degree,85000,Education,Canada
+243,Master's degree,110000,Medicine and Health,India
+244,Master's degree,110000,Medicine and Health,China
+245,Bachelor's degree,60000,Writing,Canada
+246,Bachelor's degree,95000,Medicine and Health,Canada
+247,Master's degree,100000,Computer-Related,India
+248,Bachelor's degree,95000,Administrative Specializations,Pakistan
+249,Master's degree,115000,Computer-Related,India
+250,Master's degree,120000,Mathematics and Physical Sciences,India
+251,Doctorate degree,130000,Education,China
+252,Master's degree,120000,Medicine and Health,India
+253,Master's degree,105000,Computer-Related,India
+254,Master's degree,80000,Computer-Related,India
+255,Less than Bachelor’s,45000,Medicine and Health,United Kingdom
+256,Master's degree,80000,Medicine and Health,China
+257,Master's degree,110000,Computer-Related,India
+258,Master's degree,110000,Computer-Related,India
+259,Doctorate degree,90000,Medicine and Health,United Kingdom
+260,Doctorate degree,125000,Mathematics and Physical Sciences,India
+261,Professional degree,170000,Computer-Related,India
+262,Doctorate degree,95000,Education,Canada
+263,Bachelor's degree,60000,Computer-Related,India
+264,Bachelor's degree,55000,Medicine and Health,India
+265,Doctorate degree,90000,Medicine and Health,China
+266,Master's degree,75000,Computer-Related,India
+267,Master's degree,105000,Computer-Related,India
+268,Master's degree,100000,Computer-Related,India
+269,Master's degree,105000,Computer-Related,India
+270,Master's degree,105000,Computer-Related,India
+271,Bachelor's degree,75000,Administrative Specializations,Philippines
+272,Professional degree,100000,Computer-Related,India
+273,Master's degree,70000,Medicine and Health,Canada
+274,Master's degree,100000,Computer-Related,India
+275,Master's degree,90000,Computer-Related,India
+276,Master's degree,105000,Computer-Related,India
+277,Doctorate degree,110000,Medicine and Health,Germany
+278,Master's degree,80000,Computer-Related,India
+279,Master's degree,100000,Computer-Related,India
+280,Bachelor's degree,90000,Mathematics and Physical Sciences,China
+281,Master's degree,100000,Computer-Related,India
+282,Bachelor's degree,90000,Mathematics and Physical Sciences,China
+283,Master's degree,105000,Writing,India
+284,Master's degree,60000,Computer-Related,India
+285,Bachelor's degree,75000,Computer-Related,India
+286,Master's degree,85000,Administrative Specializations,Philippines
+287,Master's degree,110000,Education,India
+288,Doctorate degree,105000,Medicine and Health,China
+289,Doctorate degree,125000,Medicine and Health,India
+290,Master's degree,70000,Law and Jurisprudence,Mexico
+291,Master's degree,70000,Education,China
+292,Less than Bachelor’s,45000,Computer-Related,India
+293,Master's degree,95000,Computer-Related,India
+294,Master's degree,95000,Computer-Related,India
+295,Doctorate degree,125000,Computer-Related,India
+296,Bachelor's degree,50000,Medicine and Health,India
+297,Master's degree,87000,Computer-Related,India
+298,Bachelor's degree,50000,Medicine and Health,Canada
+299,Bachelor's degree,90000,Administrative Specializations,Philippines
+300,Master's degree,115000,Education,Canada
+301,Master's degree,90000,Computer-Related,India
+302,Master's degree,80000,Education,India
+303,Master's degree,110000,Computer-Related,India
+304,Master's degree,95000,Computer-Related,India
+305,Professional degree,85000,Art,Canada
+306,Professional degree,160000,Computer-Related,India
+307,Master's degree,100000,Computer-Related,Canada
+308,Doctorate degree,100000,Computer-Related,India
+309,Master's degree,75000,Mathematics and Physical Sciences,China
+310,Bachelor's degree,80000,Medicine and Health,India
+311,Doctorate degree,90000,Education,Canada
+312,Master's degree,110000,Computer-Related,China
+313,Master's degree,75000,Education,Canada
+314,Master's degree,80000,Computer-Related,India
+315,Professional degree,160000,Computer-Related,India
+316,Master's degree,95000,Education,Canada
+317,Master's degree,95000,Computer-Related,India
+318,Bachelor's degree,90000,Administrative Specializations,India
+319,Master's degree,115000,Computer-Related,India
+320,Master's degree,65000,Computer-Related,India
+321,Doctorate degree,90000,Computer-Related,India
+322,Professional degree,180000,Medicine and Health,India
+323,Master's degree,80000,Computer-Related,India
+324,Bachelor's degree,85000,Medicine and Health,Canada
+325,Professional degree,140000,Computer-Related,India
+326,Master's degree,75000,Mathematics and Physical Sciences,India
+327,Master's degree,115000,Writing,China
+328,Master's degree,55000,Computer-Related,India
+329,Master's degree,100000,Computer-Related,India
+330,Master's degree,100000,Medicine and Health,India
+331,Master's degree,80000,Medicine and Health,China
+332,Bachelor's degree,60000,Computer-Related,India
+333,Bachelor's degree,65000,Computer-Related,India
+334,Professional degree,110000,Computer-Related,India
+335,Doctorate degree,90000,Computer-Related,India
+336,Master's degree,105000,Computer-Related,India
+337,Master's degree,90000,Education,Canada
+338,Bachelor's degree,70000,Social Sciences,India
+339,Doctorate degree,130000,Education,Canada
+340,Doctorate degree,125000,Computer-Related,India
+341,Master's degree,115000,Computer-Related,Canada
+342,Professional degree,80000,Computer-Related,India
+343,Bachelor's degree,80000,Administrative Specializations,Philippines
+344,Bachelor's degree,60000,Computer-Related,India
+345,Master's degree,85000,Computer-Related,India
+346,Master's degree,75000,Computer-Related,India
+347,Bachelor's degree,70000,Administrative Specializations,Canada
+348,Master's degree,85000,Computer-Related,India
+349,Master's degree,110000,Computer-Related,India
+350,Bachelor's degree,85000,Computer-Related,India
+351,Bachelor's degree,70000,Art,China
+352,Doctorate degree,120000,Computer-Related,India
+353,Doctorate degree,85000,Computer-Related,India
+354,Master's degree,90000,Computer-Related,India
+355,Master's degree,80000,Computer-Related,India
+356,Master's degree,80000,Medicine and Health,United Kingdom
+357,Master's degree,80000,Mathematics and Physical Sciences,China
+358,Bachelor's degree,90000,Computer-Related,India
+359,Doctorate degree,95000,Medicine and Health,Canada
+360,Master's degree,115000,Computer-Related,India
+361,Doctorate degree,85000,Administrative Specializations,Pakistan
+362,Master's degree,105000,Computer-Related,India
+363,Professional degree,150000,Education,Canada
+364,Bachelor's degree,45000,Computer-Related,India
+365,Doctorate degree,125000,Art,India
+366,Bachelor's degree,75000,Computer-Related,India
+367,Master's degree,110000,Administrative Specializations,Pakistan
+368,Master's degree,80000,Computer-Related,India
+369,Doctorate degree,100000,Computer-Related,India
+370,Bachelor's degree,65000,Medicine and Health,Nepal
+371,Master's degree,49000,Medicine and Health,India
+372,Master's degree,115000,Computer-Related,China
+373,Master's degree,105000,Social Sciences,Italy
+374,Bachelor's degree,90000,Computer-Related,India
+375,Professional degree,120000,Computer-Related,India
+376,Bachelor's degree,65000,Computer-Related,India
+377,Master's degree,60000,Computer-Related,India
+378,Master's degree,80000,Computer-Related,India
+379,Master's degree,95000,Education,China
+380,Master's degree,115000,Mathematics and Physical Sciences,India
+381,Doctorate degree,95000,Mathematics and Physical Sciences,India
+382,Bachelor's degree,70000,Education,Mexico
+383,Bachelor's degree,90000,Social Sciences,India
+384,Bachelor's degree,90000,Law and Jurisprudence,China
+385,Master's degree,65000,Mathematics and Physical Sciences,India
+386,Master's degree,100000,Computer-Related,India
+387,Doctorate degree,125000,Computer-Related,India
+388,Master's degree,100000,Computer-Related,India
+389,Doctorate degree,90000,Computer-Related,India
+390,Bachelor's degree,45000,Mathematics and Physical Sciences,India
+391,Master's degree,75000,Computer-Related,India
+392,Doctorate degree,125000,Medicine and Health,Mexico
+393,Bachelor's degree,75000,Writing,India
+394,Master's degree,110000,Computer-Related,India
+395,Master's degree,85000,Medicine and Health,India
+396,Bachelor's degree,50000,Computer-Related,India
+397,Master's degree,85000,Computer-Related,India
+398,Master's degree,90000,Computer-Related,India
+399,Doctorate degree,95,000,Administrative Specializations,United Kingdom
+400,Master's degree,85000,Education,India
+401,Doctorate degree,120000,Miscellaneous,Italy
+402,Doctorate degree,120000,Mathematics and Physical Sciences,India
+403,Bachelor's degree,55000,Medicine and Health,Korea
+404,Bachelor's degree,60000,Computer-Related,India
+405,Bachelor's degree,65000,Computer-Related,India
+406,Master's degree,105000,Computer-Related,India
+407,Bachelor's degree,55000,Social Sciences,China
+408,Bachelor's degree,80000,Education,India
+409,Bachelor's degree,50000,Art,Italy
+410,Master's degree,110000,Administrative Specializations,United Kingdom
+411,Bachelor's degree,90000,Computer-Related,India
+412,Master's degree,95000,Medicine and Health,Pakistan
+413,Bachelor's degree,90000,Administrative Specializations,Canada
+414,Master's degree,90000,Law and Jurisprudence,United Kingdom
+415,Bachelor's degree,60000,Medicine and Health,China
+416,Professional degree,110000,Social Sciences,India
+417,Master's degree,75000,Education,China
+418,Doctorate degree,125000,Medicine and Health,China
+419,Bachelor's degree,60000,Computer-Related,India
+420,Master's degree,105000,Computer-Related,India
+421,Bachelor's degree,65000,Education,China
+422,Master's degree,130000,Computer-Related,India
+423,Master's degree,90000,Education,China
+424,Bachelor's degree,55000,Computer-Related,India
+425,Bachelor's degree,65000,Medicine and Health,China
+426,Master's degree,100000,Medicine and Health,China
+427,Master's degree,110000,Administrative Specializations,India
+428,Master's degree,100000,Law and Jurisprudence,Korea
+429,Doctorate degree,110000,Computer-Related,India
+430,Master's degree,95000,Mathematics and Physical Sciences,China
+431,Bachelor's degree,75000,Computer-Related,India
+432,Doctorate degree,105000,Administrative Specializations,Pakistan
+433,Bachelor's degree,80000,Mathematics and Physical Sciences,India
+434,Master's degree,70000,Computer-Related,India
+435,Professional degree,140000,Computer-Related,India
+436,Less than Bachelor’s,50000,Education,China
+437,Master's degree,80000,Medicine and Health,United Kingdom
+438,Master's degree,90000,Medicine and Health,India
+439,Master's degree,105000,Computer-Related,India
+440,Bachelor's degree,90000,Computer-Related,India
+441,Master's degree,120000,Medicine and Health,China
+442,Bachelor's degree,90000,Computer-Related,India
+443,Bachelor's degree,95000,Social Sciences,Canada
+444,Master's degree,80000,Computer-Related,India
+445,Doctorate degree,85000,Computer-Related,India
+446,Professional degree,140000,Computer-Related,India
+447,Master's degree,85000,Medicine and Health,Korea
+448,Master's degree,80000,Medicine and Health,India
+449,Bachelor's degree,95000,Education,India
+450,Master's degree,90000,Medicine and Health,Canada
+451,Less than Bachelor’s,55000,Education,India
+452,Bachelor's degree,90000,Law and Jurisprudence,France
+453,Bachelor's degree,65000,Computer-Related,India
+454,Master's degree,105000,Mathematics and Physical Sciences,China
+455,Doctorate degree,85000,Medicine and Health,China
+456,Master's degree,120000,Education,India
+457,Master's degree,95000,Computer-Related,China
+458,Bachelor's degree,55000,Administrative Specializations,India
+459,Master's degree,75000,Computer-Related,India
+460,Doctorate degree,90000,Computer-Related,India
+461,Master's degree,60000,Education,Canada
+462,Bachelor's degree,90000,Mathematics and Physical Sciences,India
+463,Less than Bachelor’s,55000,Computer-Related,China
+464,Master's degree,85000,Medicine and Health,Korea
+465,Doctorate degree,85000,Computer-Related,India
+466,Master's degree,90000,Medicine and Health,India
+467,Bachelor's degree,60000,Computer-Related,India
+468,Master's degree,80000,Art,China
+469,Less than Bachelor’s,50000,Education,China
+470,Professional degree,170000,Computer-Related,India
+471,Doctorate degree,115000,Computer-Related,India
+472,Bachelor's degree,60000,Administrative Specializations,United Kingdom
+473,Bachelor's degree,70000,Education,Canada
+474,Bachelor's degree,90000,Medicine and Health,India
+475,Bachelor's degree,65000,Computer-Related,India
+476,Master's degree,130000,Law and Jurisprudence,India
+477,Bachelor's degree,60000,Art,China
+478,Doctorate degree,90000,Medicine and Health,France
+479,Master's degree,75000,Education,Mexico
+480,Master's degree,70000,Education,China
+481,Doctorate degree,85000,Computer-Related,India
+482,Bachelor's degree,60000,Education,China
+483,Bachelor's degree,85000,Education,Canada
+484,Bachelor's degree,75000,Medicine and Health,Canada
+485,Master's degree,110000,Education,China
+486,Master's degree,95000,Medicine and Health,United Kingdom
+487,Master's degree,105000,Computer-Related,China
+488,Bachelor's degree,95000,Computer-Related,India
+489,Doctorate degree,125000,Art,Canada
+490,Bachelor's degree,80000,Medicine and Health,United Kingdom
+491,Bachelor's degree,85000,Education,India
+492,Master's degree,85000,Art,United Kingdom
+493,Doctorate degree,90000,Mathematics and Physical Sciences,India
+494,Bachelor's degree,65000,Law and Jurisprudence,India
+495,Bachelor's degree,70000,Education,India
+496,Doctorate degree,90000,Computer-Related,India
+497,Doctorate degree,125000,Computer-Related,China
+498,Master's degree,120000,Administrative Specializations,Canada
+499,Doctorate degree,125000,Computer-Related,India
+500,Bachelor's degree,75000,Computer-Related,India
