@@ -147,7 +147,7 @@ def lottery():
     
     return [random_people_chosen, geomean]
 
-# lottery: lst int str str -> 
+# statistics: lst int str str -> 
 # As a side effect, prints out the degree, income, and job statistics of all the 
 # People in the given list as well as those who received the H-1B visa
 def statistics(lst, mean, out_file, which):
@@ -299,4 +299,4 @@ def main():
 
     output_file_lot.close()
 
-#main()
+main()
