@@ -4,6 +4,8 @@ Created from March 26-28 2021
 Video description:
 https://vimeo.com/529955156
 
+Link to project: https://devpost.com/software/working-title-remodeling-the-h1-b-visa-application-process#updates
+
 The H-1B visa process is very biased and does not accurately reflect the needs of the 
 USA or the applicant. This systematic approach should replace the current randomized 
 lottery that chooses who receives a H-1B visa. 
